@@ -122,7 +122,7 @@ nav .btn{
 }
 notes{
     max-width: 1600px;
-    /*height: 448px;*/
+    height: 448px;
     background-color: #FFFFFF;
 }
 .notes .section{
@@ -147,9 +147,47 @@ notes{
 }
 
 .card{
+    padding: 44px 120px 21.5px 120px;
     display: flex;
+    gap: 24px;
+    
+    
+    
+}
+.card-box{
+    box-shadow: 0 0 8px 0 #0000004b;
+    border-radius: 8px;
+    
+}
+
+.card .card-image{
+    padding: 69.5px 131px 16px 131px;
+    border: red;
+    
+    
+    width: 60px;
+
 
 }
+ 
+.card-box  .card-title{
+    font-size: 24px;
+    font-weight: 600;
+    color: #001931;
+    padding-bottom: 16px;
+    margin: 16px 24px;
+    
+    
+}
+.card-box  .card-subtitle{
+    color: #627382;
+    font-size: 16px;
+    line-height: 20px;
+    margin: 16px 24px 69.5px 24px;
+
+}
+
+
 
 
 
