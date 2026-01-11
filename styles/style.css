@@ -76,12 +76,16 @@ nav .btn{
 .banner-text h1{
     text-align: center;
     padding-top: 16px;
+    font-size: 80px;
+    
 }
 .banner-text h1 .color-white{
     color: #FFFFFF;
+    
 }
 .banner-text h1 .color-green{
     color: #30BB68;
+    
 
 }
 .banner-text p{
@@ -115,6 +119,36 @@ nav .btn{
     border-radius: 4px;
     font-size: 16px;
     font-weight: 600;
+}
+notes{
+    max-width: 1600px;
+    /*height: 448px;*/
+    background-color: #FFFFFF;
+}
+.notes .section{
+    width: 1360px;
+    gap: 16px;
+    text-align: center;
+    padding-top: 68px;
+    
+}
+.section .section-heading{
+    font-size: 48px;
+    color: #001931;
+    font-weight: bold;
+}
+.section-heading .subtitle{
+    font-size: 16px;
+    line-height: 20px;
+    color: #627382;
+    
+    
+    
+}
+
+.card{
+    display: flex;
+
 }
 
 
