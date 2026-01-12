@@ -55,7 +55,7 @@ nav .btn{
 .banner{
     max-width: 1600px;
     height: 674px;
-    background: url(/assets/hero-bg.png);
+    background: url(../assets/hero-bg.png);
     background-size: cover;
 }
 .icon-text{
@@ -108,6 +108,7 @@ nav .btn{
     border-radius: 4px;
     font-size: 16px;
     font-weight: 600;
+   
 }
 .banner-button .btn2{
     
@@ -119,6 +120,9 @@ nav .btn{
     border-radius: 4px;
     font-size: 16px;
     font-weight: 600;
+}
+.banner-button img{
+    vertical-align: middle;
 }
 notes{
     max-width: 1600px;
