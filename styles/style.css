@@ -186,6 +186,52 @@ notes{
     margin: 16px 24px 69.5px 24px;
 
 }
+.brain{
+    display: flex;
+    gap: 60px;
+    justify-content: space-between;
+    padding: 120px;
+    
+}
+.text-description{
+    padding-top: 102px;
+}
+.text-description h4{
+    font-size: 16px;
+    font-weight: 500;
+    color: #469165;
+    
+}
+.text-description h1{
+    font-size: 48px;
+    font-weight: bold;
+    color: #001931;
+}
+.text-description h5{
+    font-size: 16px;
+    color: #627382;
+    line-height: 20px;
+    
+}
+.text-description h6{
+    
+    color: #001931;
+    padding-top: 40px;
+
+}
+.text-description h6 li{
+   margin-bottom: 16px;
+   list-style-type: none;
+   font-size: 16px;
+   font-weight: 500;
+   color: #001931;
+   
+   
+}
+.text-description h6 li img{
+    vertical-align: middle;
+    margin-right: 6px;
+}
 
 
 
